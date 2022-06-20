@@ -1,6 +1,10 @@
 https://www.digitalocean.com/community/tutorials/how-to-use-downshift-in-common-dropdown-use-cases
 https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/
 
+https://www.downshift-js.com/use-select
+https://codesandbox.io/examples/package/downshift
+
 -------------------------------------------------------------------------------------------------
 
 PS C:\Temp> npx create-react-app downshift-examples-2 --use-npm
+PS C:\Temp\downshift-examples-2> npm install downshift axios react-popper
