@@ -3,8 +3,28 @@ https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/
 
 https://www.downshift-js.com/use-select
 https://codesandbox.io/examples/package/downshift
+https://github.com/downshift-js/downshift#props
 
 -------------------------------------------------------------------------------------------------
 
 PS C:\Temp> npx create-react-app downshift-examples-2 --use-npm
 PS C:\Temp\downshift-examples-2> npm install downshift axios react-popper
+
+
+1. onChange: This function is called when the user selects an item and the selected item has changed. It returns the selectedItem.
+2. itemToString: This function is used to determine the string value for the selected item which is used to compute the inputValue.
+3. inputValue: This represents the value the input field should have.
+4. getInputProps: This function returns the props you should apply to the input element that you render.
+5. getItemProps: This function returns the props you should apply to any menu item elements you render.
+6. isOpen: This is a boolean that indicates whether or not the menu is open.
+7. selectedItem: This represents the currently selected item input.
+8. render: This is where you render whatever you want to based on the state of Downshift. This function is called with an object.
+
+https://github.com/downshift-js/downshift#props
+Event Handlers:
+- ArrowDown
+- ArrowUp
+- Home
+- End
+- Enter
+- Escape
