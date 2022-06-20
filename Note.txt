@@ -1,0 +1,6 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-downshift-in-common-dropdown-use-cases
+https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/
+
+-------------------------------------------------------------------------------------------------
+
+PS C:\Temp> npx create-react-app downshift-examples-2 --use-npm
