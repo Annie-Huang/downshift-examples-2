@@ -4,12 +4,16 @@ https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/
 https://www.downshift-js.com/use-select
 https://codesandbox.io/examples/package/downshift
 https://github.com/downshift-js/downshift#props
+https://codesandbox.io/s/github/kentcdodds/downshift-examples?file=/src/hooks/useSelect/basic-usage.js
 
 -------------------------------------------------------------------------------------------------
 
 PS C:\Temp> npx create-react-app downshift-examples-2 --use-npm
 PS C:\Temp\downshift-examples-2> npm install downshift axios react-popper
-
+PS C:\Temp\downshift-examples-2> npm install react-emotion emotion starwars-names match-sorter
+PS C:\Temp\downshift-examples-2> npm install @emotion/css
+PS C:\Temp\downshift-examples-2> npm install @emotion/styled
+PS C:\Temp\downshift-examples-2> npm uninstall emotion react-emotion
 
 1. onChange: This function is called when the user selects an item and the selected item has changed. It returns the selectedItem.
 2. itemToString: This function is used to determine the string value for the selected item which is used to compute the inputValue.
