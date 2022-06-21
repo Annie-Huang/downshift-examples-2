@@ -14,6 +14,8 @@ PS C:\Temp\downshift-examples-2> npm install react-emotion emotion starwars-name
 PS C:\Temp\downshift-examples-2> npm install @emotion/css
 PS C:\Temp\downshift-examples-2> npm install @emotion/styled
 PS C:\Temp\downshift-examples-2> npm uninstall emotion react-emotion
+PS C:\Temp\downshift-examples-2> npm install @material-ui/core @material-ui/icons --force
+
 
 1. onChange: This function is called when the user selects an item and the selected item has changed. It returns the selectedItem.
 2. itemToString: This function is used to determine the string value for the selected item which is used to compute the inputValue.
