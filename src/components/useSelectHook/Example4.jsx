@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useSelect } from 'downshift';
-import { items, menuStyles } from './shared';
+import { items, menuStyles } from '../shared';
 
 // useSelect Controlling state
 const DropdownSelect = ({ selectedItem, handleSelectedItemChange }) => {

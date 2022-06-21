@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelect } from 'downshift';
-import { items, menuStyles } from './shared';
+import { items, menuStyles } from '../shared';
 
 // useSelect Basic Usage
 const Example1 = () => {
