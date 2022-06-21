@@ -1,6 +1,6 @@
 import './App.css';
 import Example1 from './components/useSelectHook/Example1';
-import Example2 from './components/Example2';
+import Example2 from './components/DownshiftComponent/Example2';
 import Example3 from './components/useSelectHook/Example3';
 import Example4 from './components/useSelectHook/Example4';
 
