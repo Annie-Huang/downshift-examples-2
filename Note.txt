@@ -6,6 +6,9 @@ https://codesandbox.io/examples/package/downshift
 https://github.com/downshift-js/downshift#props
 https://codesandbox.io/s/github/kentcdodds/downshift-examples?file=/src/hooks/useSelect/basic-usage.js
 
+https://www.downshift-js.com/use-select#props-used-in-examples
+https://www.downshift-js.com/use-combobox#props-used-in-examples
+
 -------------------------------------------------------------------------------------------------
 
 PS C:\Temp> npx create-react-app downshift-examples-2 --use-npm
